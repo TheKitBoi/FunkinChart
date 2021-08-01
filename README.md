@@ -1,3 +1,6 @@
+https://jsm925.github.io/FunkinChart/
+website
+
 # Funkin' Web Chart
 This is a standalone web app that displays Friday Night Funkin' charts along with audio waveforms to verify the sync of the arrows/notes to the music without any offset.
 
